@@ -3,7 +3,7 @@ class ElectronicPart{
 private $manufacturer;
 private $price;
 private $model;
-
+ 
  
  function getSpecs(){
        
